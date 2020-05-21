@@ -1,0 +1,14 @@
+- selector: img_slider
+  bullets: true
+  captions: true
+  images:
+    - src: /resource/image/IMG_0001.jpg
+      title:
+      alt:
+    - src: /resource/image/IMG_0002.jpg
+      title:
+      alt:
+  settings:
+    height:
+    interval: 3000
+    effect: "'fade'"
