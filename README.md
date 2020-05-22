@@ -1,7 +1,7 @@
 # ploverlake.github.com
 
-Have no idea to introduce what ...
+Published at [http://www.russellamber.xyz](http://www.russellamber.xyz)
 
-## License
+## Image slider
 
-Released under the [BSD 2-Clause License](LICENSE)
+See [jekyll-ideal-image-slider-include](https://github.com/jekylltools/jekyll-ideal-image-slider-include)
